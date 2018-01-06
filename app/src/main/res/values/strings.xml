@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TN BloodBank</string>
+    <string name="blood_group_prompt">Select Blood Group</string>
+    <string-array name="blood_group_arrays">
+        <item> </item>
+        <item>O positive</item>
+        <item>O negative</item>
+        <item>A positive</item>
+        <item>A negative</item>
+        <item>B positive</item>
+        <item>B negative</item>
+        <item>AB positive</item>
+        <item>AB negative</item>
+    </string-array>
+</resources>
